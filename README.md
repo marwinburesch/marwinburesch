@@ -1,4 +1,4 @@
-### Hi there 👋
+### ᕕ(ᐛ)ᕗ lesgo web dev!
 
 <!--
 **marwinburesch/marwinburesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
