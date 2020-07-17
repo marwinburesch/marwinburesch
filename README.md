@@ -1,4 +1,4 @@
-### ᕕ(ᐛ)ᕗ lesgo web dev!
+### 🐸 good morning developers!
 
 <!--
 **marwinburesch/marwinburesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
